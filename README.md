@@ -1,0 +1,2 @@
+# kettleoperation
+java代码调用kettle执行kjb作业文件或ktr转换文件，打印logback日志
